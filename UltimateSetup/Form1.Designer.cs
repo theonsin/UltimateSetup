@@ -77,10 +77,18 @@ namespace UltimateSetup
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(btnInstall);
+
             FormBorderStyle = FormBorderStyle.None;
+
             Name = "Form1";
+
             StartPosition = FormStartPosition.CenterScreen;
+
             Text = "Ultimate Setup";
+
+            Icon = Icon.ExtractAssociatedIcon(
+                Application.ExecutablePath);
+
             ResumeLayout(false);
             PerformLayout();
         }
