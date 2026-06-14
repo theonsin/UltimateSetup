@@ -25,7 +25,7 @@ Modern installer for Last Chaos Ultimate.
 
 ### Exit Confirmation
 
-<img src="docs/confirm-exit.png" width="500"/>
+<img src="docs/confirm-exit.png" width="800"/>
 
 ---
 
