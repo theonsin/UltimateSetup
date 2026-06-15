@@ -4,7 +4,7 @@ Modern installer for Last Chaos Ultimate.
 
 ![Platform](https://img.shields.io/badge/.NET-8.0-blue)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-green)
-![Status](https://img.shields.io/badge/Status-Beta-orange)
+![Status](https://img.shields.io/badge/Status-Release-blue)
 
 ## Features
 
